@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "chicken-identify"
+version = "1.0.0"
+description = "Reproducible rooster and mating-hen identity identification"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "av>=10",
+    "numpy>=1.23",
+    "opencv-python>=4.8",
+    "ultralytics>=8.3",
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

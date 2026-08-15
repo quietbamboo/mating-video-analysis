@@ -1,0 +1,69 @@
+# Replaced at runtime by code/train.py --data-root.
+path: ../data
+
+train: images/train
+val: images/val
+
+
+# Classes
+names:
+  0: red-@
+  1: red-#
+  2: red-$
+  3: red-%
+  4: red-&
+  5: red-1
+  6: red-2
+  7: red-4
+  8: red-B
+  9: red-C
+  10: red-M
+  11: red-X
+  12: yellow-@
+  13: yellow-#
+  14: yellow-$
+  15: yellow-%
+  16: yellow-&
+  17: yellow-1
+  18: yellow-2
+  19: yellow-4
+  20: yellow-B
+  21: yellow-C
+  22: yellow-M
+  23: yellow-X
+  24: blue-@
+  25: blue-#
+  26: blue-$
+  27: blue-%
+  28: blue-&
+  29: blue-1
+  30: blue-2
+  31: blue-4
+  32: blue-B
+  33: blue-C
+  34: blue-M
+  35: blue-X
+  36: black-@
+  37: black-#
+  38: black-$
+  39: black-%
+  40: black-&
+  41: black-1
+  42: black-2
+  43: black-4
+  44: black-B
+  45: black-C
+  46: black-M
+  47: black-X
+  48: pink-@
+  49: pink-#
+  50: pink-$
+  51: pink-%
+  52: pink-&
+  53: pink-1
+  54: pink-2
+  55: pink-4
+  56: pink-B
+  57: pink-C
+  58: pink-M
+  59: pink-X
