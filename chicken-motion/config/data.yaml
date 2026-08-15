@@ -1,0 +1,9 @@
+# Replaced at runtime by code/train.py --data-root.
+path: ../data
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: rooster

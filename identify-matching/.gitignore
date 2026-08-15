@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+output/
+results/generated/
+data/videos/*.mp4
+models/*.pt
