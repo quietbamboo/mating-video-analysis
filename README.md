@@ -3,7 +3,7 @@
 This repository contains the code used for label detection, rooster detection,
 multi-object tracking, and rooster/hen identity matching. 
 
-Public dataset: `https://data.mendeley.com/datasets/3z9m4g973t/2`
+Public dataset: [njau-hjx/mating-video-analysis](https://huggingface.co/datasets/njau-hjx/mating-video-analysis)
 
 ## Components
 
