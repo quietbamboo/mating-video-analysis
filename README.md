@@ -35,6 +35,7 @@ Rooster logs + mating intervals ───────────┴─> rooster
 | [`chicken-motion/`](chicken-motion/) | Prepare leakage-safe splits and train the rooster detector. |
 | [`track-code/`](track-code/) | Track roosters and export or evaluate MOT annotations. |
 | [`identify-matching/`](identify-matching/) | Run rooster and mating-hen identity attribution and analyze results. |
+| [`docs/vest-pilot/`](docs/vest-pilot/) | Preliminary observations of vest wearing, daily counts, and descriptive summaries. |
 
 ## Requirements
 
@@ -58,6 +59,15 @@ files through the command-line options described below. For inference, provide
 your own trained YOLO weights with `--model` or `--label-model`. Large datasets,
 model weights, and generated outputs are intentionally not stored in this Git
 repository.
+
+## Preliminary observations of vest wearing
+
+We recorded mating counts across sequential periods with different vest-wearing
+conditions under equal observation time. These preliminary descriptive observations
+do not establish behavioral neutrality; further controlled experiments are needed
+to evaluate potential vest-related effects.
+
+[View the experimental summary, figure, and daily counts](docs/vest-pilot/)
 
 ## Quick start: track roosters in your own videos
 

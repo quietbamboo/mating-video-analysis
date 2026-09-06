@@ -1,0 +1,37 @@
+﻿phase,source_sheet,source_row,date_as_recorded,mating_count,both_vested,rooster_vested_hen_unvested,rooster_unvested_hen_vested,both_unvested
+No vest,原始数据明细,7,05/12日,21,,,,
+No vest,原始数据明细,8,05/13日,32,,,,
+No vest,原始数据明细,9,05/14日,32,,,,
+No vest,原始数据明细,10,05/15日,28,,,,
+No vest,原始数据明细,11,05/16日,24,,,,
+No vest,原始数据明细,12,05/17日,32,,,,
+Partial vest: round 1,原始数据明细,14,05/19日,16,0,3,2,11
+Partial vest: round 1,原始数据明细,15,05/20日,21,2,5,3,11
+Partial vest: round 1,原始数据明细,16,05/21日,30,3,4,8,15
+Partial vest: round 1,原始数据明细,17,05/22日,36,2,6,15,13
+Partial vest: round 1,原始数据明细,18,05/23日,33,3,7,10,13
+Partial vest: round 1,原始数据明细,19,05/24日,37,2,5,11,19
+Partial vest: round 1,原始数据明细,20,05/25日,41,2,8,9,22
+Partial vest: round 1,原始数据明细,21,05/26日,36,6,8,7,15
+Partial vest: round 2,原始数据明细,23,06/10日,40,9,10,9,12
+Partial vest: round 2,原始数据明细,24,06/11日,47,13,21,6,7
+Partial vest: round 2,原始数据明细,25,06/12日,29,8,7,9,5
+Partial vest: round 2,原始数据明细,26,06/13日,37,5,14,10,8
+Partial vest: round 2,原始数据明细,27,06/14日,37,3,13,11,10
+Partial vest: round 2,原始数据明细,28,06/15日,24,7,3,8,6
+Partial vest: round 2,原始数据明细,29,06/16日,23,4,7,4,8
+Partial vest: round 2,原始数据明细,30,06/17日,14,3,3,3,5
+Partial vest: round 2,原始数据明细,31,06/18日,28,7,3,12,6
+Partial vest: round 2,原始数据明细,32,06/19日,30,7,7,7,9
+Partial vest: round 2,原始数据明细,33,06/20日,25,3,7,6,9
+Partial vest: round 2,原始数据明细,34,06/21日,23,10,3,7,3
+Partial vest: round 2,原始数据明细,35,06/22日,43,7,9,12,15
+All birds vested,原始数据明细,38,07-20,43,,,,
+All birds vested,原始数据明细,39,07-21,24,,,,
+All birds vested,原始数据明细,40,07-22,19,,,,
+All birds vested,原始数据明细,41,07-23,33,,,,
+All birds vested,原始数据明细,42,07-24,34,,,,
+All birds vested,原始数据明细,43,07-25,23,,,,
+All birds vested,原始数据明细,44,07-26,37,,,,
+All birds vested,原始数据明细,45,07-27,25,,,,
+All birds vested,原始数据明细,47,07-29,22,,,,
